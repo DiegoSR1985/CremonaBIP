@@ -1,7 +1,7 @@
 objectid,format,filename,title,description,latitude,longitude,source,identifier,type,language,rights,rightsstatement,youtubeid,vimeoid,creator,date,subject,location
 coll001,image/jpeg,test001.jpg,A2A Charging Station,,45.138084411621094,10.017566680908203,,,,,,,,,,,,
-coll002,image/jpeg,test001.jpg,Corso Garibaldi,,45.13753890991211,10.018939018249512,,,,,,,,,,,,
-coll003,image/jpeg,test001.jpg,Scultura dedicata a Stradivari sulla panchina,,45.13728332519531,10.019207954406738,,,,,,,,,,,,
-coll004,image/jpeg,test001.jpg,Via Alessandro Manzoni,,45.13644790649414,10.023269653320312,,,,,,,,,,,,
-coll005,image/jpeg,test001.jpg,Corso Campi,,45.13484191894531,10.0220365524292,,,,,,,,,,,,
-,,,Via Boccaccino,,45.13351058959961,10.024944305419922,,,,,,,,,,,,
+coll002,image/jpeg,test002.jpg,Corso Garibaldi,,45.13753890991211,10.018939018249512,,,,,,,,,,,,
+coll003,image/jpeg,test003.jpg,Scultura dedicata a Stradivari sulla panchina,,45.13728332519531,10.019207954406738,,,,,,,,,,,,
+coll004,image/jpeg,test004.jpg,Via Alessandro Manzoni,,45.13644790649414,10.023269653320312,,,,,,,,,,,,
+coll005,image/jpeg,test005.jpg,Corso Campi,,45.13484191894531,10.0220365524292,,,,,,,,,,,,
+coll006,image/jpeg,test006.jpg,Via Boccaccino,,45.13351058959961,10.024944305419922,,,,,,,,,,,,
